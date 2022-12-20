@@ -121,7 +121,7 @@ Note the image being used is the default image provided for Codespaces. It inclu
 **Wait about 20 seconds then refresh this page for the next step**
 
 </details>
-<details id=3 open>
+<details id=3>
 	
 <summary><h2>Step 3: Customize your Codespace!</h2></summary>
 
@@ -186,7 +186,7 @@ Next lets add some code to run on creation of the Codespace!
  
 </details>
 
-<details id=4>
+<details id=4 open>
 <summary><h2>Step 4: Personalize your Codespace!</h2></summary>
 
 _Nicely done customizing your Codespace!_ :partying_face:
