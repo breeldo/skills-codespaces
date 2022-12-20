@@ -1,6 +1,6 @@
 # Develop code using Codespaces and Visual Studio Code!
 
-<!--step0-->
+<!--step0
 
 GitHub offers Codespaces which is a development environment that's hosted in the cloud.
 
@@ -20,10 +20,10 @@ GitHub offers Codespaces which is a development environment that's hosted in the
    ![Create a new repository](https://user-images.githubusercontent.com/1221423/169618722-406dc508-add4-4074-83f0-c7a7ad87f6f3.png)
 3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
 
-<!--endstep0-->
+endstep0-->
 
 
-<details id=1>
+<details id=1 open>
 <summary><h2>Step 1: Create your first codespace and push code</h2></summary>
 
 _Welcome to "Develop code using Codespaces and Visual Studio Code"! :wave:_
