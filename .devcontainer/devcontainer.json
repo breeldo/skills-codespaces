@@ -1,0 +1,9 @@
+{
+    // Name this configuration
+    "name": "Codespace for Skills!",
+    //Use base codespace image then pull Valet on postCreateCommand,  
+    "image": "mcr.microsoft.com/vscode/devcontainers/universal:latest",
+    
+    "remoteUser": "codespace",
+    "overrideCommand": false
+}
